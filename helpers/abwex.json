@@ -1,0 +1,12 @@
+{
+  "name": "ABWex",
+  "desc": "Analyze A/B test results with frequentist and Bayesian statistics in your browser.",
+  "url": "https://abwex.com",
+  "tags": [
+    "Misc"
+  ],
+  "maintainers": [
+    "theluckystrike"
+  ],
+  "addedAt": "2026-04-09"
+}
